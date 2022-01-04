@@ -27,6 +27,15 @@ namespace TestApi.Controllers
         {
             try
             {
+                if (!DbUtil.IsApiKeyValid(apikey, _config))
+                {
+                    return Ok(new
+                    {
+                        error = 2,
+                        success = false,
+                        msg = "Unathorized"
+                    });
+                }
                 DataTable dt = new DataTable();
                 List<User> users = new List<User>();
 
