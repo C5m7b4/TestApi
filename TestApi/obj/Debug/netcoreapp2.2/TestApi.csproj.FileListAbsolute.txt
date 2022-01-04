@@ -1,0 +1,17 @@
+C:\Dev\TestApi\TestApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Dev\TestApi\TestApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Dev\TestApi\TestApi\bin\Debug\netcoreapp2.2\TestApi.deps.json
+C:\Dev\TestApi\TestApi\bin\Debug\netcoreapp2.2\TestApi.runtimeconfig.json
+C:\Dev\TestApi\TestApi\bin\Debug\netcoreapp2.2\TestApi.runtimeconfig.dev.json
+C:\Dev\TestApi\TestApi\bin\Debug\netcoreapp2.2\TestApi.dll
+C:\Dev\TestApi\TestApi\bin\Debug\netcoreapp2.2\TestApi.pdb
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.csprojAssemblyReference.cache
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.AssemblyInfoInputs.cache
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.AssemblyInfo.cs
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.csproj.CoreCompileInputs.cache
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.RazorAssemblyInfo.cache
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.RazorAssemblyInfo.cs
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.RazorTargetAssemblyInfo.cache
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.dll
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.pdb
+C:\Dev\TestApi\TestApi\obj\Debug\netcoreapp2.2\TestApi.genruntimeconfig.cache
